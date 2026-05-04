@@ -14,6 +14,3 @@ I'm Vinícius Assum, a front-end programmer looking to improve my skills and eve
 
 <a href = "https://www.linkedin.com/in/vinicius-assum-40b16a3aa/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-## Stats:
-
-![Assum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Assum07&show_icons=true&theme=radical)
